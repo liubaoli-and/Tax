@@ -19,4 +19,4 @@ The tax program is customized with reference to taxation standards and is a proc
 3.	Description of MRs
 
    The input of the service to be tested is divided into equivalence classes, and then the MRs is designed by analyzing the necessary attributes existing between different equivalence classes.
-![](https://cdn.jsdelivr.net/gh/Evan-ZJ/MyPic/img/20210329172441.jpg)
+![](https://cdn.jsdelivr.net/gh/Evan-ZJ/MyPic/img/20210421204500.jpg)
